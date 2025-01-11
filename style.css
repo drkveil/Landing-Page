@@ -139,3 +139,36 @@ a{
     font-size: 24px;
     font-weight: bold;
 }
+
+.cta-section{
+    padding: 100px 5%;
+}
+
+.cta-container{
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: white;
+    padding: 40px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-container h1{
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.cta-container h1 p{
+    color: aliceblue;
+}
+
+.cta-container button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: #3882f6;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
